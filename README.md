@@ -7,13 +7,15 @@ AbogaBot es una Aplicacíon Web creada para que encuentres al mejor abogado para
 <h2>Wireframes</h2>
 <ul>
     <li><h3>Web
-    
+        <br>
         <img src="/resources/img/Wireframe Web.png" alt="Wireframe Web" width="50%">
-    </h3></li>
+        </h3>
+    </li>
     <li><h3>Mobile
-    
+        <br>
         <img src="/resources/img/Wireframe Mobile.png" alt="Wireframe Mobile" width="50%">
-    </h3></li>
+        </h3>
+    </li>
 </ul>
 <br>
 <h2>UI(PENDIENTE)</h2>
