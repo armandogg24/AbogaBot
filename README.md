@@ -1,4 +1,4 @@
-#AbogaBot
+# AbogaBot
 AbogaBot es una Aplicacíon Web creada para que encuentres al mejor abogado para tí y automatizar el proceso legal
 <br>
 <h2>Logo</h2>
@@ -7,9 +7,11 @@ AbogaBot es una Aplicacíon Web creada para que encuentres al mejor abogado para
 <h2>Wireframes</h2>
 <ul>
     <li><h3>Web
+    
         <img src="/resources/img/Wireframe Web.png" alt="Wireframe Web" width="50%">
     </h3></li>
     <li><h3>Mobile
+    
         <img src="/resources/img/Wireframe Mobile.png" alt="Wireframe Mobile" width="50%">
     </h3></li>
 </ul>
