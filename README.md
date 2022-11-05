@@ -34,7 +34,7 @@ AbogaBot es una Aplicacíon Web creada para que encuentres al mejor abogado para
                 <li>El Administrador actualiza el proceso de la demanda y agrega comentarios en cada paso del proceso. 🖊</li>
                 <li>Se envían al usuario correos para notificar el avance de su demanda. 📬</li>
             </ol>
-                <p>La pagina debe ser responsive para poderla ver desde el celular 💻 ⏩📱 <br> AbogaBot, funcionara en las plataformas web y móvil, esta ultima sera necesaria para el seguimiento de actualizaciones del proceso legal. <br> Los colores del cliente son Azul Marino y Blanco (acepta propuestas) 🐬☁️ <br> La comunicación “Administrador→Usuario” será por notificaciones de las actualizaciones en la WebApp, al igual que si el cliente quiere hablar directamente con el Admin.
+                <p>La pagina debe ser responsive para poderla ver desde el celular 💻 ⏩📱 <br><br> AbogaBot, funcionara en las plataformas web y móvil, esta ultima sera necesaria para el seguimiento de actualizaciones del proceso legal. <br><br> Los colores del cliente son Azul Marino y Blanco (acepta propuestas) 🐬☁️ <br><br> La comunicación “Administrador→Usuario” será por notificaciones de las actualizaciones en la WebApp, al igual que si el cliente quiere hablar directamente con el Admin.
                 </p>
         </li>
     </ul>
