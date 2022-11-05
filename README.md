@@ -42,24 +42,24 @@ AbogaBot es una Aplicacíon Web creada para que encuentres al mejor abogado para
 <section>
     <h2>Buyer Persona</h2>
     <hr>
-    <img src="Buyer_Persona.png" alt="Buyer Persona">
+    <img src="img/Buyer_Persona.png" alt="Buyer Persona">
 </section>
 <section>
     <h2>Publico Objetivo</h2>
     <hr>
-    <img src="Publico_Objetivo.png" alt="Publico Objetivo" width="512px">
+    <img src="img/Publico_Objetivo.png" alt="Publico Objetivo" width="512px">
     <br>
-    <img src="Publico_Objetivo_Full.png" alt="Publico Objetivo Full" width="512px">
+    <img src="img/Publico_Objetivo_Full.png" alt="Publico Objetivo Full" width="512px">
 </section>
 <section>
     <h2>UX</h2>
     <hr>
     <ul>
         <li>Web
-            <img src="Wireframe_Web.png" alt="Wireframe Web" width="512px">
+            <img src="img/Wireframe_Web.png" alt="Wireframe Web" width="512px">
         </li>
         <li>Mobile
-            <img src="Wireframe_Mobile.png" alt="Wreframe Mobile" width="512px">
+            <img src="img/Wireframe_Mobile.png" alt="Wreframe Mobile" width="512px">
         </li>
     </ul>
 </section>
@@ -70,28 +70,28 @@ AbogaBot es una Aplicacíon Web creada para que encuentres al mejor abogado para
         <li>Web
             <ul>
                 <li>Pantalla Principal
-                    <img src="UI_Web_1.png" alt="UI Web" width="512px">
+                    <img src="img/UI_Web_1.png" alt="UI Web" width="512px">
                 </li>
                 <li>Crear Cuenta/Iniciar Sesion
-                    <img src="UI_Web_2.png" alt="UI Web" width="512px">
-                    <img src="UI_Web_3.png" alt="UI Web" width="512px">
+                    <img src="img/UI_Web_2.png" alt="UI Web" width="512px">
+                    <img src="img/UI_Web_3.png" alt="UI Web" width="512px">
                 </li>
                 <li>Dashboard
-                    <img src="UI_Web_4.png" alt="UI Web" width="512px">
+                    <img src="img/UI_Web_4.png" alt="UI Web" width="512px">
                 </li>
                 <li>Mis Demandas
-                    <img src="UI_Web_5.png" alt="UI Web" width="512px">
+                    <img src="img/UI_Web_5.png" alt="UI Web" width="512px">
                 </li>
                 <li>Mensajes
-                    <img src="UI_Web_6.png" alt="UI Web" width="512px">
+                    <img src="img/UI_Web_6.png" alt="UI Web" width="512px">
                 </li>
                 <li>Nueva Demanda
-                    <img src="UI_Web_7.png" alt="UI Web" width="512px">
+                    <img src="img/UI_Web_7.png" alt="UI Web" width="512px">
                 </li>
             </ul>
         </li>
         <li>Mobile
-            <img src="UI_Mobile.png" alt="UI Mobile" width="512px">
+            <img src="img/UI_Mobile.png" alt="UI Mobile" width="512px">
         </li>
     </ul>
 </section>
